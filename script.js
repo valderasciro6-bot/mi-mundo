@@ -2,5 +2,5 @@ const boton = document.getElementById("miBoton");
 const mensaje = document.getElementById("mensaje");
 
 boton.addEventListener("click", function() {
-  mensaje.textContent = "¡Lo lograste! 🎉 Tu web ya funciona ahora come yupi.";
+  mensaje.textContent = "¡Lo lograste! 🎉 gey nadie te mando ahora come yupi de mi parte.";
 });
